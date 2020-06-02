@@ -28,10 +28,14 @@ h2 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h3 {
-    font-size: 1.2em;
+    font-size: 1.8em;
     font-style: bold;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-}   
+}
+h4 {
+    font-size: 1.7em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
 p {
     font-size: 1.5em;
     line-height: 1.4em;
