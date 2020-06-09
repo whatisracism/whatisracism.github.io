@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "What is racism?",
-    "currentPage": "page7.html",
+    "currentPage": "terminology.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -2322,7 +2322,7 @@
         }
       ]
     },
-    "page7.html": {
+    "terminology.html": {
       "settings": {
         "title": "Terminology",
         "meta_descr": "Curriculum for white Britions to educate ourselves on racism.",
