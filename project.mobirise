@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "What is racism?",
-    "currentPage": "terminology.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -24,7 +24,7 @@
         "display4Font": "Roboto",
         "display4Size": 0.9,
         "isRoundedButtons": false,
-        "isScrollToTopButton": true,
+        "isScrollToTopButton": false,
         "arrowColor": "#4ea2e3"
       },
       "additionalSetColors": [
@@ -53,7 +53,26 @@
     "imageResize": true,
     "uniqCompNum": 226,
     "versionPublish": "4.12.3",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "opacityOverlay": "80",
+      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+      "textButton": "Agree"
+    },
+    "favicon": false,
+    "canonical-url": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
