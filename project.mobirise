@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "What is racism?",
-    "currentPage": "resources.html",
+    "currentPage": "experiences.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -3882,7 +3882,7 @@
     },
     "experiences.html": {
       "settings": {
-        "title": "Experiences of race and racism in the UK",
+        "title": "Experiences of race and racism in Britain and its former empire",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
