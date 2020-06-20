@@ -9,13 +9,7 @@
 		<loc>https://whatisracism.uk/race.html</loc>
 	</url>
 	<url>
-		<loc>https://whatisracism.uk/whiteprivilege.html</loc>
-	</url>
-	<url>
 		<loc>https://whatisracism.uk/racism.html</loc>
-	</url>
-	<url>
-		<loc>https://whatisracism.uk/whitefragility.html</loc>
 	</url>
 	<url>
 		<loc>https://whatisracism.uk/antiracism.html</loc>
@@ -34,5 +28,11 @@
 	</url>
 	<url>
 		<loc>https://whatisracism.uk/experiences.html</loc>
+	</url>
+	<url>
+		<loc>https://whatisracism.uk/white-privilege.html</loc>
+	</url>
+	<url>
+		<loc>https://whatisracism.uk/white-fragility.html</loc>
 	</url>
 </urlset>
